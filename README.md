@@ -1,2 +1,3 @@
 # webpack-init
-Webpack setup for normal project
+
+Webpack setup for normal projects
