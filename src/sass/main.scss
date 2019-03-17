@@ -1,1 +1,8 @@
+// impoting overrides
+@import "./public/overrides";
+
+// Importing node style files
+@import "~bootstrap/scss/bootstrap";
+
+// Add local sass files
 @import "./layout/body";
